@@ -3,4 +3,5 @@ Aqui ficará armazenado arquivos e scrips de dados de vendas de petroleo e dos f
 
 ### Dicionário dos arquivos
 
+relatório - Relatório das análises dos dados em R
 
