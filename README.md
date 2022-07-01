@@ -3,5 +3,5 @@ Aqui ficará armazenado arquivos e scrips de dados de vendas de petroleo e dos f
 
 ### Dicionário dos arquivos
 
-relatório - Relatório das análises dos dados em R
-
+relatório - Relatório das análises dos dados em R Markdown
+petroleodata - Script das análises dos dados + alguns gráficos em python
